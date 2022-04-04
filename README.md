@@ -12,5 +12,4 @@ calls, arrays, strings, or complex data types.
 **Semantics:**
 
 This section informally defines the semantics of each program element. Since this specification is not formal, it is likely to be ambiguous and/or incomplete but 
-should nonetheless convey a reasonable specification of the expected meaning of each program element. Seek clarification of any part of the specification that you 
-believe is unclear.
+should nonetheless convey a reasonable specification of the expected meaning of each program element.
