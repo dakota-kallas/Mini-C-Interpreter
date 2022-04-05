@@ -52,10 +52,10 @@ Execution of a while first evaluates the expression and then executes the associ
 Evaluation of an expression produces the value of the expression.
 
 **BINARY**        
-A binary expression represents either a logical or arithmetic operation. See Figure 1 for details. Each operator is defined as that of the corresponding Java operator.
+A binary expression represents either a logical or arithmetic operation. Each operator is defined as that of the corresponding Java operator.
 
 **UNARY**         
-There are two unary expressions. See Figure 1 for details. Each operator is defined as that of the corresponding Java operator.
+There are two unary expressions. Each operator is defined as that of the corresponding Java operator.
 
 ## Mini-C Abstract Syntax
 The abstract syntax of ART-C is given below. The abstract syntax defines the objects that you must use when writing your type checker and interpreter. These grammatical 
