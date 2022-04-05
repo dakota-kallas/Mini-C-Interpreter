@@ -14,7 +14,9 @@ The `Interpreter.meaning( Program p )` function accepts a single valid program o
 state that it produces.
 
 ### **How to Run:**
-Navigate to the directory containing the clite package in the command line. To compile the meaing function, type: `javac ./clite/interpreter/Interpreter.java`. Once compiled, to test it type: `java ./clite/interpreter/Interpreter.java test1.c`. The test file name can be changed.
+Navigate to the directory containing the clite package in the command line.       
+To compile the meaing function, type: `javac ./clite/interpreter/Interpreter.java`.       
+Once compiled, to test it type: `java ./clite/interpreter/Interpreter.java test1.c`. The test file name can be changed.     
 
 # **Mini-C Language:**
 Mini-C is an imperative language that supports only the boolean and int data types along with basic arithmetic, logic, and relational operators. There are no function
